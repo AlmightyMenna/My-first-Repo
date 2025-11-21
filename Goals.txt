@@ -1,22 +1,9 @@
-                                     My Goal for next academic year.
-    My academic goal are as follows;
-1. Strengthen Core Academic Performance
-Maintain strong grades—especially in Mathematics, ICT, and Science—by dedicating consistent study hours each week and actively seeking support in challenging topics.
-2. Build Foundational Data Science Skills
-Complete introductory courses in Python programming, data analysis, and statistics using online platforms like Coursera, DataCamp, or Khan Academy to build a strong technical base.
-3. Improve Research and Analytical Thinking
-Engage in small research projects, data-related assignments, or personal experiments to develop problem-solving skills and analytical reasoning essential for data science.
-4. Develop Strong Study Habits and Time Management
-Create a weekly study timetable and follow it strictly, ensuring balanced time for assignments, revision, and independent learning.
-
-5. Enhance Communication and Presentation Skills
-Practice writing structured reports, doing presentations, and explaining complex ideas clearly—skills that are crucial for any data-focused career.
-
-6. Participate in Academic Clubs or Tech Communities
-Join a school ICT club, coding club, or local tech community to gain exposure, collaborate with peers, and grow your practical skills.
-
-7. Build a Personal Portfolio Project
-Work on at least one data-related mini project, such as analyzing school data, sports statistics, or simple datasets, to demonstrate your growing skills.
-
-8. Read Widely and Expand Knowledge
-Read books, articles, and technology blogs at least twice a week to stay informed about trends in data science, AI, and digital transformation.
+ My personal and academic goal for next year        
+Maintain strong grades—especially in Mathematics
+ Build Foundational Data Science Skills
+ Improve Research and Analytical Thinking 
+ Develop Strong Study Habits and Time Management
+ Enhance Communication and Presentation Skills
+ Participate in Academic Clubs or Tech Communities
+ Build a Personal Portfolio Project
+ Read Widely and Expand Knowledge
